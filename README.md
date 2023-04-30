@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm David 👋
 
 - 🌱 I’m currently learning .NET Platform
 - 💬 Ask me about anything
